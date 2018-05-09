@@ -1,7 +1,11 @@
+add_obs_repo:
+  cmd.run:
+    - name: add-apt-repository ppa:obsproject/obs-studio
+
 install_editstation:
   pkg.installed:
     - pkgs:
-      - kazam
+      - obs-studio
       - audacity
       - kdenlive
       - gimp
