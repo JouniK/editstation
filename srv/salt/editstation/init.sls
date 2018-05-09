@@ -1,7 +1,3 @@
-add_obs_repo:
-  cmd.run:
-    - name: add-apt-repository ppa:obsproject/obs-studio
-
 install_editstation:
   pkg.installed:
     - pkgs:
@@ -9,3 +5,4 @@ install_editstation:
       - audacity
       - kdenlive
       - gimp
+      - vlc
