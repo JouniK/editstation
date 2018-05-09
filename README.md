@@ -11,7 +11,7 @@ Kyseinen moduuli asentaa alla olevat ohjelmat:
 
 
 # Asennuksen kestoaika
-Käyttöönotto voi kestää useita minuutteja, mutta se riippu täysin verkkoyhteytesi nopeudesta.
+Käyttöönotto voi kestää useita minuutteja, mutta se riippuu täysin verkkoyhteytesi nopeudesta.
 
 
 # Käyttöönoton ohjeet
