@@ -3,9 +3,9 @@ Lopputyö/moduuli kurssille ICT4TN022-4
 
 # Työasema video/audio editorille
 Kyseinen moduuli asentaa alla olevat ohjelmat:
-- Audacity
-- Kazam
 - OBS-Studio
+- Audacity
+- Kdenlive
 - Gimp
 - VLC
 
