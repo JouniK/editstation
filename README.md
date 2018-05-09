@@ -15,8 +15,10 @@ Käyttöönotto voi kestää useita minuutteja, mutta se riippu täysin verkkoyh
 
 
 # Käyttöönoton ohjeet
-- Uusi xubuntu asennus / live-tikku / Tehty xubuntu 16.04 x64
+- Uusi xubuntu asennus / live-tikku / 
 - sudo apt-get update
 - sudo add-apt-repository ppa:obsproject/obs-studio
 - sudo apt-get -y install git salt-minion
 - git clone https://github.com/JouniK/teststation
+- cd teststation
+- sudo bash high.sh
