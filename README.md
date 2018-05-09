@@ -7,6 +7,8 @@ Kyseinen moduuli asentaa alla olevat ohjelmat:
 - Kazam
 - Kdenlive
 - Gimp
+- VLC
+
 
 # Asennuksen kestoaika
 Käyttöönoton kestoaika riippuu verkkoyhteytesi nopeudesta...
