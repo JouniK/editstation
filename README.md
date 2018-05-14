@@ -12,10 +12,6 @@ Kyseinen moduuli asentaa alla olevat ohjelmat:
 Repositoria sisältää myös GIMP:n config tiedoston, josta voit muuttaa haluamasi asetukset.
 
 
-# Asennuksen kestoaika
-Käyttöönotto voi kestää useita minuutteja, mutta se riippuu täysin verkkoyhteytesi nopeudesta.
-
-
 # Käyttöönoton ohjeet
 - Uusi xubuntu asennus / live-tikku / 
 - sudo apt-get update
