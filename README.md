@@ -9,6 +9,8 @@ Kyseinen moduuli asentaa alla olevat ohjelmat:
 - Gimp
 - VLC
 
+Repositoria sisältää myös GIMP:n config tiedoston, josta voit muuttaa haluamasi asetukset.
+
 
 # Asennuksen kestoaika
 Käyttöönotto voi kestää useita minuutteja, mutta se riippuu täysin verkkoyhteytesi nopeudesta.
