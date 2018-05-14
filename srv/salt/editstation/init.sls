@@ -6,3 +6,7 @@ install_editstation:
       - kdenlive
       - gimp
       - vlc
+
+/etc/gimp/2.0/gimprc:
+  file.managed:
+    - source: salt://editstation/gimprc
